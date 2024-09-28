@@ -34,5 +34,5 @@ Full stack developper student at Zone01 Oujda, passionate about web development,
 
 ## 📈 GitHub Stats :
 
-![Ayoub's GitHub stats](https://github-readme-stats-ayoub-benramdane-projects.vercel.app/api?username=ayoub-benramdane&show_icons=true&theme=neon&rank_icon=github)
-![Top Langs](https://github-readme-stats-ayoub-benramdane-projects.vercel.app/api/top-langs/?username=ayoub-benramdane&layout=compact&theme=neon) [![GitHub Streak](https://github-streak-stats-tan.vercel.app?user=ayoub-benramdane&theme=neon)](https://git.io/streak-stats)
+![Ayoub's GitHub stats](https://github-readme-stats-ayoub-benramdane-stats.vercel.app/api?username=ayoub-benramdane&show_icons=true&theme=neon&rank_icon=github)
+![Top Langs](https://github-readme-stats-ayoub-benramdane-stats.vercel.app/api/top-langs/?username=ayoub-benramdane&layout=compact&theme=neon) [![GitHub Streak](https://github-streak-stats-tan.vercel.app?user=ayoub-benramdane&theme=neon)](https://git.io/streak-stats)
