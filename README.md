@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me :
 
 <img alt="Coding" width="300" height="250" align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-<p  height="250">Full stack developper student at Zone01 Oujda, passionate about web development, data science, and DevOps. I enjoy creating dynamic and responsive web applications, analyzing data to uncover insights, and exploring the latest tools and practices in DevOps.</p>
+<p  padding="10px 250px"> Full stack developper student at Zone01 Oujda, passionate about web development, data science, and DevOps. I enjoy creating dynamic and responsive web applications, analyzing data to uncover insights, and exploring the latest tools and practices in DevOps.</p>
 
 ---
 
