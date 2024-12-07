@@ -7,7 +7,7 @@ Full stack developper student at Zone01 Oujda, passionate about web development,
 ---
 
 
-<h1 padding="10px 5px" ><img alt="Coding" width="300" align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/></h1>
+<center><h1 padding="10px 5px" ><img alt="Coding" width="300" align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/></h1></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-benramdane&label=Profile%20views&color=0e75b6&style=flat" alt="ayoub-benramdane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoub-benramdane" alt="ayoub-benramdane" /></a> </p>
